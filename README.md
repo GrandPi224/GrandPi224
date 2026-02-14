@@ -22,12 +22,10 @@ Independent financial consultant building interactive data visualizations and ec
 | [research-portal](https://github.com/GrandPi224/research-portal) | Web-based research portal with JSON data backend |
 | [SOTU-Artifacts](https://github.com/GrandPi224/SOTU-Artifacts) | Permanent library of economic visualizations and market artifacts |
 | [Health-Tracker-2026](https://github.com/GrandPi224/Health-Tracker-2026) | Personal health tracking dashboard |
-
+| [Miran-Doctrine](https://github.com/GrandPi224/Miran-Doctrine) | Doctrine development toolkit — HTML |
 ## Economic Week Ahead & Data Reports
 
 | Repository | Description |
-| [Miran-Doctrine](https://github.com/GrandPi224/Miran-Doctrine) | Doctrine development toolkit — HTML ifthere's a description needed |
-|---|---|
 | [GROWTH-INFLATION](https://github.com/GrandPi224/GROWTH-INFLATION) | Growth vs. inflation analysis (Jan 2026) |
 | [FLOW-in-2026](https://github.com/GrandPi224/FLOW-in-2026) | Fund flow analysis — 2026 edition |
 | [Flow-into-26](https://github.com/GrandPi224/Flow-into-26) | Fund flow analysis — year-end 2025 into 2026 |
