@@ -22,7 +22,7 @@ Independent financial consultant building interactive data visualizations and ec
 ---
 
 <a name="1db-business-reports"></a>
-               ## 1DB Business Reports <sup>[↑ TOC](#toc)</sup>
+## 1DB Business Reports <sup>[↑ TOC](#toc)</sup>
 
                | Repository | Description |
                |---|---|
@@ -30,8 +30,8 @@ Independent financial consultant building interactive data visualizations and ec
                | [ManagedFees](https://github.com/GrandPi224/ManagedFees) | Managed account fee analysis · Updated May 13, 2025 |
                | [SIGGY](https://github.com/GrandPi224/SIGGY) | "The Deal" — Business analysis · Updated Nov 3, 2025 |
 
-               <a name="economic-dashboards-and-tools"></a>
-               ## Economic Dashboards and Tools <sup>[↑ TOC](#toc)</sup>
+<a name="economic-dashboards-and-tools"></a>
+## Economic Dashboards and Tools <sup>[↑ TOC](#toc)</sup>
 
                | Repository | Description |
                |---|---|
@@ -58,8 +58,8 @@ Independent financial consultant building interactive data visualizations and ec
                | [Econ-quiz](https://github.com/GrandPi224/Econ-quiz) | Global Quiz Part 2 · Updated May 8, 2025 |
                | [JapanQuiz](https://github.com/GrandPi224/JapanQuiz) | Interactive quiz about the May 6, 2025 Morning Briefing · Updated May 8, 2025 |
 
-               <a name="economic-week-ahead-and-data-reports"></a>
-               ## Economic Week Ahead and Data Reports <sup>[↑ TOC](#toc)</sup>
+<a name="economic-week-ahead-and-data-reports"></a>
+## Economic Week Ahead and Data Reports <sup>[↑ TOC](#toc)</sup>
 
                | Repository | Description |
                |---|---|
@@ -119,8 +119,8 @@ Independent financial consultant building interactive data visualizations and ec
                | [BTM0517](https://github.com/GrandPi224/BTM0517) | Bottom — May 17, 2025 analysis · Updated May 17, 2025 |
                | [GeminiShortSqueeze](https://github.com/GrandPi224/GeminiShortSqueeze) | Gemini short squeeze analysis · Updated May 17, 2025 |
 
-               <a name="jobs-and-employment"></a>
-               ## Jobs and Employment <sup>[↑ TOC](#toc)</sup>
+<a name="jobs-and-employment"></a>
+## Jobs and Employment <sup>[↑ TOC](#toc)</sup>
 
                | Repository | Description |
                |---|---|
@@ -136,8 +136,8 @@ Independent financial consultant building interactive data visualizations and ec
                | [JobsReport625](https://github.com/GrandPi224/JobsReport625) | Jobs report — June 2025 (alternate) · Updated Jul 3, 2025 |
                | [-5.6M](https://github.com/GrandPi224/-5.6M) | Job losses / employment data visualization · Updated May 16, 2025 |
 
-               <a name="inflation-and-interest-rates"></a>
-               ## Inflation and Interest Rates <sup>[↑ TOC](#toc)</sup>
+<a name="inflation-and-interest-rates"></a>
+## Inflation and Interest Rates <sup>[↑ TOC](#toc)</sup>
 
                | Repository | Description |
                |---|---|
@@ -146,8 +146,8 @@ Independent financial consultant building interactive data visualizations and ec
                | [cpi0425](https://github.com/GrandPi224/cpi0425) | CPI report — April 2025 · Updated May 13, 2025 |
                | [Disinflation](https://github.com/GrandPi224/Disinflation) | Disinflation analysis · Updated May 14, 2025 |
 
-               <a name="personal-and-other"></a>
-               ## Personal and Other <sup>[↑ TOC](#toc)</sup>
+<a name="personal-and-other"></a>
+## Personal and Other <sup>[↑ TOC](#toc)</sup>
 
                | Repository | Description |
                |---|---|
