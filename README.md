@@ -13,6 +13,7 @@ Independent financial consultant building interactive data visualizations and ec
 <li><a href="#1db-business-reports">1DB Business Reports</a></li>
 <li><a href="#economic-dashboards-and-tools">Economic Dashboards and Tools</a></li>
 <li><a href="#economic-week-ahead-and-data-reports">Economic Week Ahead and Data Reports</a></li>
+<li><a href="#investment-strategy">Investment Strategy</a></li>
 <li><a href="#jobs-and-employment">Jobs and Employment</a></li>
 <li><a href="#inflation-and-interest-rates">Inflation and Interest Rates</a></li>
 <li><a href="#personal-and-other">Personal and Other</a></li>
@@ -39,6 +40,8 @@ Independent financial consultant building interactive data visualizations and ec
 | [research-portal](https://github.com/GrandPi224/research-portal) | Web-based research portal with JSON data backend · Updated Oct 31, 2025 |
 | [SOTU-Artifacts](https://github.com/GrandPi224/SOTU-Artifacts) | Permanent library of economic visualizations and market artifacts · Updated Feb 19, 2026 |
 | [Health-Tracker-2026](https://github.com/GrandPi224/Health-Tracker-2026) | Personal health tracking dashboard · Updated Feb 5, 2026 |
+| [TheDoctrine](https://github.com/GrandPi224/TheDoctrine) | The Doctrine — economic policy analysis · Updated Feb 24, 2026 |
+| [MyDoctrine](https://github.com/GrandPi224/MyDoctrine) | My Doctrine — economic policy toolkit · Updated Feb 21, 2026 |
 | [Miran-Doctrine](https://github.com/GrandPi224/Miran-Doctrine) | Doctrine development toolkit — HTML · Updated Feb 14, 2026 |
 | [INFLATION2026](https://github.com/GrandPi224/INFLATION2026) | Inflation analysis dashboard — 2026 · Updated Feb 13, 2026 |
 | [GlobalEconomicDashboard](https://github.com/GrandPi224/GlobalEconomicDashboard) | Global economic indicators dashboard · Updated Feb 10, 2026 |
@@ -63,6 +66,9 @@ Independent financial consultant building interactive data visualizations and ec
 
 | Repository | Description |
 |---|---|
+| [HousingHappenings](https://github.com/GrandPi224/HousingHappenings) | Housing happenings — market update · Updated Feb 26, 2026 |
+| [TrumpsSupremeTariffThrashing](https://github.com/GrandPi224/TrumpsSupremeTariffThrashing) | Trump's supreme tariff thrashing — trade policy analysis · Updated Feb 20, 2026 |
+| [LEARNING-RESOURCES-INC.-ET-AL.-v.-TRUMP](https://github.com/GrandPi224/LEARNING-RESOURCES-INC.-ET-AL.-v.-TRUMP) | Learning Resources Inc. et al. v. Trump — legal/economic analysis · Updated Feb 20, 2026 |
 | [MAAG](https://github.com/GrandPi224/MAAG) | Market analysis and advisory guide · Updated Feb 20, 2026 |
 | [LOSTDECADE](https://github.com/GrandPi224/LOSTDECADE) | The lost decade — economic analysis · Updated Feb 16, 2026 |
 | [Beta-Alpha-RFR](https://github.com/GrandPi224/Beta-Alpha-RFR) | Beta, alpha, and risk-free rate analysis · Updated Feb 14, 2026 |
@@ -105,6 +111,7 @@ Independent financial consultant building interactive data visualizations and ec
 | [EconoBlast0810](https://github.com/GrandPi224/EconoBlast0810) | Economic data blast — August 10, 2025 · Updated Aug 10, 2025 |
 | [SPX6389](https://github.com/GrandPi224/SPX6389) | S&P 6389 analysis · Updated Aug 9, 2025 |
 | [buybacks](https://github.com/GrandPi224/buybacks) | Stock buybacks analysis · Updated Aug 8, 2025 |
+| [TWA072725](https://github.com/GrandPi224/TWA072725) | The Week Ahead — Jul 27, 2025 · Updated Aug 1, 2025 |
 | [GRK](https://github.com/GrandPi224/GRK) | GRK analysis · Updated Jul 27, 2025 |
 | [TWA](https://github.com/GrandPi224/TWA) | The Week Ahead · Updated Jul 27, 2025 |
 | [SCFpain](https://github.com/GrandPi224/SCFpain) | Survey of Consumer Finances — pain points · Updated Jul 25, 2025 |
@@ -118,6 +125,14 @@ Independent financial consultant building interactive data visualizations and ec
 | [GS10-Higher](https://github.com/GrandPi224/GS10-Higher) | 10-year Treasury yield higher analysis · Updated May 17, 2025 |
 | [BTM0517](https://github.com/GrandPi224/BTM0517) | Bottom — May 17, 2025 analysis · Updated May 17, 2025 |
 | [GeminiShortSqueeze](https://github.com/GrandPi224/GeminiShortSqueeze) | Gemini short squeeze analysis · Updated May 17, 2025 |
+
+<a name="investment-strategy"></a>
+## Investment Strategy <sup>[↑ TOC](#toc)</sup>
+
+| Repository | Description |
+|---|---|
+| [optionstrategy](https://github.com/GrandPi224/optionstrategy) | Option strategy analysis · Updated Feb 26, 2026 |
+| [All-Weather-Impact](https://github.com/GrandPi224/All-Weather-Impact) | All-weather portfolio impact analysis · Updated Feb 23, 2026 |
 
 <a name="jobs-and-employment"></a>
 ## Jobs and Employment <sup>[↑ TOC](#toc)</sup>
@@ -151,6 +166,8 @@ Independent financial consultant building interactive data visualizations and ec
 
 | Repository | Description |
 |---|---|
+| [Aileen0220](https://github.com/GrandPi224/Aileen0220) | Aileen — Feb 20, 2026 · Updated Feb 20, 2026 |
+| [Aileen022026](https://github.com/GrandPi224/Aileen022026) | Aileen — Feb 20, 2026 · Updated Feb 20, 2026 |
 | [BarriesBand](https://github.com/GrandPi224/BarriesBand) | Barries Band · Updated Feb 19, 2026 |
 | [50-50-Digital-Advisory](https://github.com/GrandPi224/50-50-Digital-Advisory) | 50/50 Digital Advisory · Updated Feb 19, 2026 |
 | [BURRYBUNNY](https://github.com/GrandPi224/BURRYBUNNY) | Burry Bunny · Updated Feb 13, 2026 |
@@ -192,7 +209,16 @@ Independent financial consultant building interactive data visualizations and ec
 
 | Repository | Description |
 |---|---|
+| [optionstrategy](https://github.com/GrandPi224/optionstrategy) | Option strategy analysis · Updated Feb 26, 2026 |
+| [HousingHappenings](https://github.com/GrandPi224/HousingHappenings) | Housing happenings — market update · Updated Feb 26, 2026 |
+| [TheDoctrine](https://github.com/GrandPi224/TheDoctrine) | The Doctrine — economic policy analysis · Updated Feb 24, 2026 |
+| [All-Weather-Impact](https://github.com/GrandPi224/All-Weather-Impact) | All-weather portfolio impact analysis · Updated Feb 23, 2026 |
+| [MyDoctrine](https://github.com/GrandPi224/MyDoctrine) | My Doctrine — economic policy toolkit · Updated Feb 21, 2026 |
 | [MAAG](https://github.com/GrandPi224/MAAG) | Market analysis and advisory guide · Updated Feb 20, 2026 |
+| [Aileen0220](https://github.com/GrandPi224/Aileen0220) | Aileen — Feb 20, 2026 · Updated Feb 20, 2026 |
+| [Aileen022026](https://github.com/GrandPi224/Aileen022026) | Aileen — Feb 20, 2026 · Updated Feb 20, 2026 |
+| [TrumpsSupremeTariffThrashing](https://github.com/GrandPi224/TrumpsSupremeTariffThrashing) | Trump's supreme tariff thrashing — trade policy analysis · Updated Feb 20, 2026 |
+| [LEARNING-RESOURCES-INC.-ET-AL.-v.-TRUMP](https://github.com/GrandPi224/LEARNING-RESOURCES-INC.-ET-AL.-v.-TRUMP) | Learning Resources Inc. et al. v. Trump — legal/economic analysis · Updated Feb 20, 2026 |
 | [BarriesBand](https://github.com/GrandPi224/BarriesBand) | Barries Band · Updated Feb 19, 2026 |
 | [SOTU-Artifacts](https://github.com/GrandPi224/SOTU-Artifacts) | Permanent library of economic visualizations and market artifacts · Updated Feb 19, 2026 |
 | [50-50-Digital-Advisory](https://github.com/GrandPi224/50-50-Digital-Advisory) | 50/50 Digital Advisory · Updated Feb 19, 2026 |
@@ -254,6 +280,7 @@ Independent financial consultant building interactive data visualizations and ec
 | [Market-Melt-Up-](https://github.com/GrandPi224/Market-Melt-Up-) | Market melt-up analysis · Updated Oct 7, 2025 |
 | [TWA100625](https://github.com/GrandPi224/TWA100625) | The Week Ahead — Oct 6, 2025 · Updated Oct 6, 2025 |
 | [ADPPig](https://github.com/GrandPi224/ADPPig) | ADP employment report analysis · Updated Oct 1, 2025 |
+| [HoneyBadgerATH](https://github.com/GrandPi224/HoneyBadgerATH) | Honey Badger all-time high analysis · Updated Oct 2, 2025 |
 | [AmericanNightmare](https://github.com/GrandPi224/AmericanNightmare) | American nightmare — economic analysis · Updated Sep 30, 2025 |
 | [HousingCrisis](https://github.com/GrandPi224/HousingCrisis) | Housing crisis analysis · Updated Sep 30, 2025 |
 | [spmo0925](https://github.com/GrandPi224/spmo0925) | S&P market overview — Sep 2025 · Updated Sep 29, 2025 |
