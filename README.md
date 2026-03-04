@@ -17,6 +17,7 @@ Independent financial consultant building interactive data visualizations and ec
 <li><a href="#jobs-and-employment">Jobs and Employment</a></li>
 <li><a href="#inflation-and-interest-rates">Inflation and Interest Rates</a></li>
 <li><a href="#personal-and-other">Personal and Other</a></li>
+<li><a href="#ai-alchemy">AI Alchemy</a></li>
 <li><a href="#all-repos-by-date">All Repositories by Date</a></li>
 </ol>
 
@@ -37,10 +38,13 @@ Independent financial consultant building interactive data visualizations and ec
 | Repository | Description |
 |---|---|
 | [TEAPI](https://github.com/GrandPi224/TEAPI) | Real-time US economic dashboard powered by Trading Economics API (Python Dash + Plotly) · Updated Feb 10, 2026 |
+| [OperationEpicFury](https://github.com/GrandPi224/OperationEpicFury) | Operation Epic Fury — HTML · Updated Feb 28, 2026 |
+| [Liar-Index](https://github.com/GrandPi224/Liar-Index) | Liar Index — HTML · Updated Feb 27, 2026 |
+| [FEDOMETER](https://github.com/GrandPi224/FEDOMETER) | Fedometer — Fed funds dashboard · Updated Feb 26, 2026 |
 | [research-portal](https://github.com/GrandPi224/research-portal) | Web-based research portal with JSON data backend · Updated Oct 31, 2025 |
 | [SOTU-Artifacts](https://github.com/GrandPi224/SOTU-Artifacts) | Permanent library of economic visualizations and market artifacts · Updated Feb 19, 2026 |
 | [Health-Tracker-2026](https://github.com/GrandPi224/Health-Tracker-2026) | Personal health tracking dashboard · Updated Feb 5, 2026 |
-| [TheDoctrine](https://github.com/GrandPi224/TheDoctrine) | The Doctrine — economic policy analysis · Updated Feb 24, 2026 |
+| [TheDoctrine](https://github.com/GrandPi224/TheDoctrine) | The Doctrine — economic policy analysis · Updated Feb 28, 2026 |
 | [MyDoctrine](https://github.com/GrandPi224/MyDoctrine) | My Doctrine — economic policy toolkit · Updated Feb 21, 2026 |
 | [Miran-Doctrine](https://github.com/GrandPi224/Miran-Doctrine) | Doctrine development toolkit — HTML · Updated Feb 14, 2026 |
 | [INFLATION2026](https://github.com/GrandPi224/INFLATION2026) | Inflation analysis dashboard — 2026 · Updated Feb 13, 2026 |
@@ -204,14 +208,25 @@ Independent financial consultant building interactive data visualizations and ec
 | [pro-test2](https://github.com/GrandPi224/pro-test2) | Pro test 2 · Updated May 8, 2025 |
 | [productivityq125](https://github.com/GrandPi224/productivityq125) | Productivity Q1 2025 · Updated May 8, 2025 |
 
+<a name="ai-alchemy"></a>
+## AI Alchemy <sup>[↑ TOC](#toc)</sup>
+
+| Repository | Description |
+|---|---|
+| [AiAlchemy](https://github.com/GrandPi224/AiAlchemy) | AI Alchemy — AI research and analysis · Updated Mar 4, 2026 |
+
 <a name="all-repos-by-date"></a>
 ## All Repositories by Date <sup>[↑ TOC](#toc)</sup>
 
 | Repository | Description |
 |---|---|
+| [AiAlchemy](https://github.com/GrandPi224/AiAlchemy) | AI Alchemy — AI research and analysis · Updated Mar 4, 2026 |
+| [OperationEpicFury](https://github.com/GrandPi224/OperationEpicFury) | Operation Epic Fury — HTML · Updated Feb 28, 2026 |
+| [TheDoctrine](https://github.com/GrandPi224/TheDoctrine) | The Doctrine — economic policy analysis · Updated Feb 28, 2026 |
+| [Liar-Index](https://github.com/GrandPi224/Liar-Index) | Liar Index — HTML · Updated Feb 27, 2026 |
+| [FEDOMETER](https://github.com/GrandPi224/FEDOMETER) | Fedometer — Fed funds dashboard · Updated Feb 26, 2026 |
 | [optionstrategy](https://github.com/GrandPi224/optionstrategy) | Option strategy analysis · Updated Feb 26, 2026 |
 | [HousingHappenings](https://github.com/GrandPi224/HousingHappenings) | Housing happenings — market update · Updated Feb 26, 2026 |
-| [TheDoctrine](https://github.com/GrandPi224/TheDoctrine) | The Doctrine — economic policy analysis · Updated Feb 24, 2026 |
 | [All-Weather-Impact](https://github.com/GrandPi224/All-Weather-Impact) | All-weather portfolio impact analysis · Updated Feb 23, 2026 |
 | [MyDoctrine](https://github.com/GrandPi224/MyDoctrine) | My Doctrine — economic policy toolkit · Updated Feb 21, 2026 |
 | [MAAG](https://github.com/GrandPi224/MAAG) | Market analysis and advisory guide · Updated Feb 20, 2026 |
