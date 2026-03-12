@@ -221,12 +221,14 @@ Independent financial consultant building interactive data visualizations and ec
 
 | Repository | Description |
 |---|---|
+| [SPXMargins](https://github.com/GrandPi224/SPXMargins) | S&P 500 profit margin history · Updated Mar 12, 2026 |
 
 <a name="all-repos-by-date"></a>
 ## All Repositories by Date <sup>[↑ TOC](#toc)</sup>
 
 | Repository | Description |
 |---|---|
+| [SPXMargins](https://github.com/GrandPi224/SPXMargins) | S&P 500 profit margin history · Updated Mar 12, 2026 |
 | [AiAlchemy](https://github.com/GrandPi224/AiAlchemy) | AI Alchemy — AI research and analysis · Updated Mar 4, 2026 |
 | [OperationEpicFury](https://github.com/GrandPi224/OperationEpicFury) | Operation Epic Fury — HTML · Updated Feb 28, 2026 |
 | [TheDoctrine](https://github.com/GrandPi224/TheDoctrine) | The Doctrine — economic policy analysis · Updated Feb 28, 2026 |
