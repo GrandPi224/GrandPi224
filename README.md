@@ -18,6 +18,7 @@ Independent financial consultant building interactive data visualizations and ec
 <li><a href="#inflation-and-interest-rates">Inflation and Interest Rates</a></li>
 <li><a href="#personal-and-other">Personal and Other</a></li>
 <li><a href="#ai-alchemy">AI Alchemy</a></li>
+  <li><a href="#sp-500">S&amp;P 500</a></li>
 <li><a href="#all-repos-by-date">All Repositories by Date</a></li>
 </ol>
 
@@ -214,6 +215,12 @@ Independent financial consultant building interactive data visualizations and ec
 | Repository | Description |
 |---|---|
 | [AiAlchemy](https://github.com/GrandPi224/AiAlchemy) | AI Alchemy — AI research and analysis · Updated Mar 4, 2026 |
+
+<a name="sp-500"></a>
+## S&amp;P 500 <sup>[↑ TOC](#toc)</sup>
+
+| Repository | Description |
+|---|---|
 
 <a name="all-repos-by-date"></a>
 ## All Repositories by Date <sup>[↑ TOC](#toc)</sup>
