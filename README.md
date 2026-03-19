@@ -38,6 +38,7 @@ Independent financial consultant building interactive data visualizations and ec
 
 | Repository | Description |
 |---|---|
+| [FedFundsRegimes](https://github.com/GrandPi224/FedFundsRegimes) | Fed funds rate regimes — HTML · Updated Mar 19, 2026 |
 | [TEAPI](https://github.com/GrandPi224/TEAPI) | Real-time US economic dashboard powered by Trading Economics API (Python Dash + Plotly) · Updated Feb 10, 2026 |
 | [OperationEpicFury](https://github.com/GrandPi224/OperationEpicFury) | Operation Epic Fury — HTML · Updated Feb 28, 2026 |
 | [Liar-Index](https://github.com/GrandPi224/Liar-Index) | Liar Index — HTML · Updated Feb 27, 2026 |
