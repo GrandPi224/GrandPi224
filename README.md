@@ -39,6 +39,7 @@ Independent financial consultant building interactive data visualizations and ec
 | Repository | Description |
 |---|---|
 | [ai_site](https://github.com/GrandPi224/ai_site) | A hub for AI news, research, and projects · Updated Oct 26, 2025 |
+| [AAIBearBull](https://github.com/GrandPi224/AAIBearBull) | AAII Bull/Bear sentiment survey — Updated Mar 13, 2026 |
 | [AI-Vocational-Solutions](https://github.com/GrandPi224/AI-Vocational-Solutions) | AI will destroy jobs universally · Updated Oct 26, 2025 |
 | [ChipCalc](https://github.com/GrandPi224/ChipCalc) | S&P and Portfolio CAGR to 2030 · Updated Dec 19, 2025 |
 | [correlations012126](https://github.com/GrandPi224/correlations012126) | 50:50 Balanced Portfolio Correlations YTD · Updated Jan 21, 2026 |
@@ -78,6 +79,7 @@ Independent financial consultant building interactive data visualizations and ec
 | [Beta-Alpha-RFR](https://github.com/GrandPi224/Beta-Alpha-RFR) | Beta, alpha, and risk-free rate analysis · Updated Feb 14, 2026 |
 | [BondVigilantes](https://github.com/GrandPi224/BondVigilantes) | Bond vigilantes analysis · Updated May 22, 2025 |
 | [BondVigilantesQ](https://github.com/GrandPi224/BondVigilantesQ) | Bond vigilantes quiz · Updated May 22, 2025 |
+| [BONDS-BOMBS-OEF](https://github.com/GrandPi224/BONDS-BOMBS-OEF) | Bonds & Bombs — Geopolitics overriding the soft-landing narrative · Updated Mar 24, 2026 |
 | [BTM0517](https://github.com/GrandPi224/BTM0517) | Bottom — May 17, 2025 analysis · Updated May 17, 2025 |
 | [buybacks](https://github.com/GrandPi224/buybacks) | Stock buybacks analysis · Updated Aug 8, 2025 |
 | [Chip-s-](https://github.com/GrandPi224/Chip-s-) | Chip analysis · Updated Jan 8, 2026 |
@@ -138,7 +140,9 @@ Independent financial consultant building interactive data visualizations and ec
 | Repository | Description |
 |---|---|
 | [All-Weather-Impact](https://github.com/GrandPi224/All-Weather-Impact) | All-weather portfolio impact analysis · Updated Feb 23, 2026 |
+| [ALW](https://github.com/GrandPi224/ALW) | All-Weather ETF Toolkit — historical performance & discount rate analysis · Updated Mar 7, 2026 |
 | [optionstrategy](https://github.com/GrandPi224/optionstrategy) | Option strategy analysis · Updated Feb 26, 2026 |
+| [WMI](https://github.com/GrandPi224/WMI) | Rising Risk Premiums vs. Falling Discount Rates — framework analysis · Updated Mar 4, 2026 |
 
 <a name="jobs-and-employment"></a>
 ## Jobs and Employment <sup>[↑ TOC](#toc)</sup>
@@ -152,6 +156,7 @@ Independent financial consultant building interactive data visualizations and ec
 | [JobDayOpps](https://github.com/GrandPi224/JobDayOpps) | Jobs day opportunities analysis · Updated Aug 4, 2025 |
 | [JobGloom1125](https://github.com/GrandPi224/JobGloom1125) | Job market gloom — November 2025 · Updated Dec 16, 2025 |
 | [JobsReport0126](https://github.com/GrandPi224/JobsReport0126) | Jobs report analysis — January 2026 · Updated Feb 11, 2026 |
+| [JobsReportFeb26](https://github.com/GrandPi224/JobsReportFeb26) | Jobs report analysis — February 2026 · Updated Mar 7, 2026 |
 | [JobsReport0625](https://github.com/GrandPi224/JobsReport0625) | June 2025 jobs report analysis · Updated Jul 3, 2025 |
 | [JobsReport625](https://github.com/GrandPi224/JobsReport625) | Jobs report — June 2025 (alternate) · Updated Jul 3, 2025 |
 | [Revisions](https://github.com/GrandPi224/Revisions) | Employment data revisions analysis · Updated Aug 1, 2025 |
@@ -223,13 +228,20 @@ Independent financial consultant building interactive data visualizations and ec
 | Repository | Description |
 |---|---|
 | [SPXMargins](https://github.com/GrandPi224/SPXMargins) | S&P 500 profit margin history · Updated Mar 12, 2026 |
+| [S-P-500-Single-Day-Declines](https://github.com/GrandPi224/S-P-500-Single-Day-Declines) | S&P 500 — 50 worst single-day crashes in market history · Updated Mar 24, 2026 |
 
 <a name="all-repos-by-date"></a>
 ## All Repositories by Date <sup>[↑ TOC](#toc)</sup>
 
 | Repository | Description |
 |---|---|
+| [BONDS-BOMBS-OEF](https://github.com/GrandPi224/BONDS-BOMBS-OEF) | Bonds & Bombs — Geopolitics overriding the soft-landing narrative · Updated Mar 24, 2026 |
+| [S-P-500-Single-Day-Declines](https://github.com/GrandPi224/S-P-500-Single-Day-Declines) | S&P 500 — 50 worst single-day crashes in market history · Updated Mar 24, 2026 |
 | [SPXMargins](https://github.com/GrandPi224/SPXMargins) | S&P 500 profit margin history · Updated Mar 12, 2026 |
+| [AAIBearBull](https://github.com/GrandPi224/AAIBearBull) | AAII Bull/Bear sentiment survey — Updated Mar 13, 2026 |
+| [ALW](https://github.com/GrandPi224/ALW) | All-Weather ETF Toolkit — historical performance & discount rate analysis · Updated Mar 7, 2026 |
+| [JobsReportFeb26](https://github.com/GrandPi224/JobsReportFeb26) | Jobs report analysis — February 2026 · Updated Mar 7, 2026 |
+| [WMI](https://github.com/GrandPi224/WMI) | Rising Risk Premiums vs. Falling Discount Rates — framework analysis · Updated Mar 4, 2026 |
 | [AiAlchemy](https://github.com/GrandPi224/AiAlchemy) | AI Alchemy — AI research and analysis · Updated Mar 4, 2026 |
 | [OperationEpicFury](https://github.com/GrandPi224/OperationEpicFury) | Operation Epic Fury — HTML · Updated Feb 28, 2026 |
 | [TheDoctrine](https://github.com/GrandPi224/TheDoctrine) | The Doctrine — economic policy analysis · Updated Feb 28, 2026 |
