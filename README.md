@@ -205,7 +205,8 @@ Independent financial consultant building interactive data visualizations and ec
 | [OHWELL](https://github.com/GrandPi224/OHWELL) | Oh well · Updated Aug 11, 2025 |
 | [OHWELLOH](https://github.com/GrandPi224/OHWELLOH) | Oh well oh · Updated Aug 11, 2025 |
 | [pete](https://github.com/GrandPi224/pete) | Pete · Updated May 13, 2025 |
-| [POWERPOINT](https://github.com/GrandPi224/POWERPOINT) | PowerPoint presentations (private) · Updated Apr 22, 2026 || [podcast](https://github.com/GrandPi224/podcast) | Podcast · Updated May 9, 2025 |
+| [POWERPOINT](https://github.com/GrandPi224/POWERPOINT) | PowerPoint presentations (private) · Updated Apr 22, 2026 |
+| [podcast](https://github.com/GrandPi224/podcast) | Podcast · Updated May 9, 2025 |
 | [pradnya-site](https://github.com/GrandPi224/pradnya-site) | Pradnya site · Updated Jun 5, 2025 |
 | [pro-test2](https://github.com/GrandPi224/pro-test2) | Pro test 2 · Updated May 8, 2025 |
 | [productivityq125](https://github.com/GrandPi224/productivityq125) | Productivity Q1 2025 · Updated May 8, 2025 |
@@ -235,6 +236,7 @@ Independent financial consultant building interactive data visualizations and ec
 
 | Repository | Description |
 |---|---|
+| [POWERPOINT](https://github.com/GrandPi224/POWERPOINT) | PowerPoint presentations (private) · Updated Apr 22, 2026 |
 | [BONDS-BOMBS-OEF](https://github.com/GrandPi224/BONDS-BOMBS-OEF) | Bonds & Bombs — Geopolitics overriding the soft-landing narrative · Updated Mar 24, 2026 |
 | [S-P-500-Single-Day-Declines](https://github.com/GrandPi224/S-P-500-Single-Day-Declines) | S&P 500 — 50 worst single-day crashes in market history · Updated Mar 24, 2026 |
 | [SPXMargins](https://github.com/GrandPi224/SPXMargins) | S&P 500 profit margin history · Updated Mar 12, 2026 |
@@ -376,7 +378,7 @@ Independent financial consultant building interactive data visualizations and ec
 | [inflationreport](https://github.com/GrandPi224/inflationreport) | Inflation report · Updated May 13, 2025 |
 | [cpi0425](https://github.com/GrandPi224/cpi0425) | CPI report — April 2025 · Updated May 13, 2025 |
 | [ManagedFees](https://github.com/GrandPi224/ManagedFees) | Managed account fee analysis · Updated May 13, 2025 |
-| [POWERPOINT](https://github.com/GrandPi224/POWERPOINT) | PowerPoint presentations (private) · Updated Apr 22, 2026 || [podcast](https://github.com/GrandPi224/podcast) | Podcast · Updated May 9, 2025 |
+| [podcast](https://github.com/GrandPi224/podcast) | Podcast · Updated May 9, 2025 |
 | [againandagain](https://github.com/GrandPi224/againandagain) | Again and again · Updated May 9, 2025 |
 | [FRUSTRATEDMAY9](https://github.com/GrandPi224/FRUSTRATEDMAY9) | Frustrated May 9 · Updated May 9, 2025 |
 | [jpm0509](https://github.com/GrandPi224/jpm0509) | JPM — May 9, 2025 · Updated May 9, 2025 |
